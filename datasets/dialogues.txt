@@ -1,0 +1,6 @@
+User: Hi
+Bot: Hello! How can I help you today?
+User: I need information about product A
+Bot: Product A is amazing! Would you like to know more?
+User: Yes, please
+Bot: Product A is known for its excellent quality and affordable price.

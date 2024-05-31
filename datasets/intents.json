@@ -1,0 +1,7 @@
+{
+    "intents": [
+        {"tag": "greeting", "patterns": ["Hi", "Hello", "Hey"], "responses": ["Hello!", "Hi there!"]},
+        {"tag": "goodbye", "patterns": ["Bye", "See you", "Goodbye"], "responses": ["Goodbye!", "See you later!"]},
+        {"tag": "product_query", "patterns": ["Tell me about product A", "What is product B?"], "responses": ["Product A is amazing!", "Product B is top quality!"]}
+    ]
+}

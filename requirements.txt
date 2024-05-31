@@ -1,0 +1,7 @@
+python-telegram-bot
+transformers
+torch
+speechrecognition
+gTTS
+python-dotenv
+scikit-learn
